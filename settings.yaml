@@ -1,0 +1,7 @@
+save_credentials: True
+client_config_file: "client_secrets.json"
+save_credentials_backend: file
+save_credentials_file: 'gauth.txt'
+drive_folder_id: '127m-5r32-c13D3AXDmJei497DP8P4NDA'
+directory_to_upload: '/Users/ashik72/Pictures'
+json_check: 'check.json'
